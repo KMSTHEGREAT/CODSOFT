@@ -24,6 +24,7 @@ ratings = pd.read_csv("/content/ml-latest-small/ratings.csv")
 print(ratings.head())
 print(movies.head())
 ```python
+
 ## 2. Data Preparation
 
 Next, we prepare the data by creating a user-item interaction matrix and filtering it based on the number of ratings.
