@@ -97,11 +97,13 @@ def get_movie_recommendation(movie_name):
     else:
         return "No movies found. Please check your input"
 ```
-# Test the recommendation system
+# Test recommendation system
+```python
 print(get_movie_recommendation('Iron Man'))
-
+```
 # Output
- ![image](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
+![output](https://github.com/KMSTHEGREAT/CODSOFT/assets/93819126/7e9ae1fa-fc4b-4377-8222-ed7b7ce58d1d)
+
 
 Running the System
 
@@ -125,8 +127,7 @@ Dataset
 
 The MovieLens dataset used in this project can be downloaded from the following links:
 
-
-    ![ml-latest-small](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip)
+[ml-latest-small] (https://files.grouplens.org/datasets/movielens/ml-latest-small.zip)
 
 
 Feel free to modify the `README.md` file according to your specific needs or environment.
