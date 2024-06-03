@@ -101,7 +101,7 @@ def get_movie_recommendation(movie_name):
 print(get_movie_recommendation('Iron Man'))
 
 # Output
-  ![alt text](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
+ ![image](https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true)
 
 Running the System
 
@@ -126,7 +126,7 @@ Dataset
 The MovieLens dataset used in this project can be downloaded from the following links:
 
 
-    <a label='ml-latest-small'href='https://files.grouplens.org/datasets/movielens/ml-latest-small.zip'>
+    ![ml-latest-small](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip)
 
 
 Feel free to modify the `README.md` file according to your specific needs or environment.
